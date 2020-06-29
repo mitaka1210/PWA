@@ -4,8 +4,7 @@
 
 ---
 
-### Table of Contents
-You're sections headers will be used to reference location of destination.
+<h3>Menu</h3>
 
 - [Description](#description)
 - [License](#license)
