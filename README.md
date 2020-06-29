@@ -10,7 +10,7 @@ You're sections headers will be used to reference location of destination.
 - [Description](#description)
 - [License](#license)
 - [Author Info](#author-info)
-- [Available Scripts](#Available Scripts)
+- [Available Scripts](#available-scripts)
 
 ---
 
@@ -109,7 +109,7 @@ SOFTWARE.
 - Website - [eng. Dimitar Dimitrov](https://mitaka1210.github.io/Portfolio-ENG/)
 - facebook - [eng. Dimitar Dimitrov](https://www.facebook.com/mitaka1210)
 - Linkedin - [eng. Dimitar Dimitrov](https://www.linkedin.com/in/dimitar-dimitrov1201/)
-- e-mail - [eng. Dimitar Dimitrov] dimitar_dimitrov12@mail.bg
-- e-mail - [eng. Dimitar Dimitrov] dimitard185@gmail.com
+- e-mail - [dimitar_dimitrov12@mail.bg]()
+- e-mail -  dimitard185@gmail.com
 
 [Back To The Top](#read-me-template)
