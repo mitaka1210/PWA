@@ -1,11 +1,16 @@
 import axios from 'axios';
+import API_KEY from '../config_keys';
+require('dotenv').config();
 
 const URL = 'https://api.openweathermap.org/data/2.5/weather';
-const API_KEY = '7a85d1405e6088e9629da10b22f2c4d2';
+
+
 
 
 const fetchWeather = async (query) => {
-    const { data } = await axios.get(URL, {
+    const {
+        data
+    } = await axios.get(URL, {
         params: {
             q: query,
             units: 'metric',

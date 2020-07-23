@@ -2,7 +2,14 @@ import React, { useState  } from 'react';
 import fetchWeather  from './API/Weather';
 import './App.css';
 
+
+
+
 const App= () => {
+
+
+  const key = process.env.REACT_APP_API_KEY
+
   const [query, setQuery ] = useState('');
   const [weather, setWeather ] = useState({
 
